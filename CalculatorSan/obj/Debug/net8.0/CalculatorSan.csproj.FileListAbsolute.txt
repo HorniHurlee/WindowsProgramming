@@ -1,0 +1,11 @@
+C:\Users\dell\source\repos\CalculatorApp_02\CalculatorSan\bin\Debug\net8.0\CalculatorSan.deps.json
+C:\Users\dell\source\repos\CalculatorApp_02\CalculatorSan\bin\Debug\net8.0\CalculatorSan.dll
+C:\Users\dell\source\repos\CalculatorApp_02\CalculatorSan\bin\Debug\net8.0\CalculatorSan.pdb
+C:\Users\dell\source\repos\CalculatorApp_02\CalculatorSan\obj\Debug\net8.0\CalculatorSan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\CalculatorApp_02\CalculatorSan\obj\Debug\net8.0\CalculatorSan.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\CalculatorApp_02\CalculatorSan\obj\Debug\net8.0\CalculatorSan.AssemblyInfo.cs
+C:\Users\dell\source\repos\CalculatorApp_02\CalculatorSan\obj\Debug\net8.0\CalculatorSan.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\CalculatorApp_02\CalculatorSan\obj\Debug\net8.0\CalculatorSan.dll
+C:\Users\dell\source\repos\CalculatorApp_02\CalculatorSan\obj\Debug\net8.0\refint\CalculatorSan.dll
+C:\Users\dell\source\repos\CalculatorApp_02\CalculatorSan\obj\Debug\net8.0\CalculatorSan.pdb
+C:\Users\dell\source\repos\CalculatorApp_02\CalculatorSan\obj\Debug\net8.0\ref\CalculatorSan.dll
