@@ -3,11 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\dell\\source\\repos\\CalculatorApp_02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B6356488-F05A-44FF-B034-90AFA4DC6A60}|..\\TestCalculator\\TestCalculator.csproj|c:\\users\\dell\\source\\repos\\testcalculator\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{787373DA-B184-492E-A022-6C311B529499}|CalculatorSan\\CalculatorSan.csproj|c:\\users\\dell\\source\\repos\\calculatorapp_02\\calculatorsan\\simplecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{787373DA-B184-492E-A022-6C311B529499}|CalculatorSan\\CalculatorSan.csproj|solutionrelative:calculatorsan\\simplecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{787373DA-B184-492E-A022-6C311B529499}|CalculatorSan\\CalculatorSan.csproj|c:\\users\\dell\\source\\repos\\calculatorapp_02\\calculatorsan\\calculatorinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{787373DA-B184-492E-A022-6C311B529499}|CalculatorSan\\CalculatorSan.csproj|solutionrelative:calculatorsan\\calculatorinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{787373DA-B184-492E-A022-6C311B529499}|CalculatorSan\\CalculatorSan.csproj|c:\\users\\dell\\source\\repos\\calculatorapp_02\\calculatorsan\\calculatorbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -18,16 +19,15 @@
       "RelativeMoniker": "D:0:0:{E1DE4681-F953-4BA6-BA05-00C4A51149C6}|CalculatorApp_02.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{787373DA-B184-492E-A022-6C311B529499}|CalculatorSan\\CalculatorSan.csproj|c:\\users\\dell\\source\\repos\\calculatorapp_02\\calculatorsan\\calculatorinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{787373DA-B184-492E-A022-6C311B529499}|CalculatorSan\\CalculatorSan.csproj|solutionrelative:calculatorsan\\calculatorinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E1DE4681-F953-4BA6-BA05-00C4A51149C6}|CalculatorApp_02.csproj|c:\\users\\dell\\source\\repos\\calculatorapp_02\\memory\\memorytt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1DE4681-F953-4BA6-BA05-00C4A51149C6}|CalculatorApp_02.csproj|solutionrelative:memory\\memorytt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1DE4681-F953-4BA6-BA05-00C4A51149C6}|CalculatorApp_02.csproj|c:\\users\\dell\\source\\repos\\calculatorapp_02\\memory\\memoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1DE4681-F953-4BA6-BA05-00C4A51149C6}|CalculatorApp_02.csproj|solutionrelative:memory\\memoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6356488-F05A-44FF-B034-90AFA4DC6A60}|..\\TestCalculator\\TestCalculator.csproj|c:\\users\\dell\\source\\repos\\testcalculator\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{787373DA-B184-492E-A022-6C311B529499}|CalculatorSan\\CalculatorSan.csproj|c:\\users\\dell\\source\\repos\\calculatorapp_02\\calculatorsan\\calculatorsan.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -52,7 +52,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -80,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Test1.cs",
               "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\TestCalculator\\Test1.cs",
               "RelativeDocumentMoniker": "..\\TestCalculator\\Test1.cs",
@@ -93,6 +93,62 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorInterface.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\CalculatorApp_02\\CalculatorSan\\CalculatorInterface.cs",
+              "RelativeDocumentMoniker": "CalculatorSan\\CalculatorInterface.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\CalculatorApp_02\\CalculatorSan\\CalculatorInterface.cs",
+              "RelativeToolTip": "CalculatorSan\\CalculatorInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:08:47.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\CalculatorApp_02\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\CalculatorApp_02\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T14:32:56.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MemoryItem.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\CalculatorApp_02\\Memory\\MemoryItem.cs",
+              "RelativeDocumentMoniker": "Memory\\MemoryItem.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\CalculatorApp_02\\Memory\\MemoryItem.cs",
+              "RelativeToolTip": "Memory\\MemoryItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T14:54:10.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MemoryTT.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\CalculatorApp_02\\Memory\\MemoryTT.cs",
+              "RelativeDocumentMoniker": "Memory\\MemoryTT.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\CalculatorApp_02\\Memory\\MemoryTT.cs",
+              "RelativeToolTip": "Memory\\MemoryTT.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T14:54:04.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "CalculatorBase.cs",
               "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\CalculatorApp_02\\CalculatorSan\\CalculatorBase.cs",
@@ -101,31 +157,21 @@
               "RelativeToolTip": "CalculatorSan\\CalculatorBase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T08:08:46.268Z"
+              "WhenOpened": "2025-02-17T08:08:46.268Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "SimpleCalculator.cs",
               "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\CalculatorApp_02\\CalculatorSan\\SimpleCalculator.cs",
               "RelativeDocumentMoniker": "CalculatorSan\\SimpleCalculator.cs",
               "ToolTip": "C:\\Users\\dell\\source\\repos\\CalculatorApp_02\\CalculatorSan\\SimpleCalculator.cs",
               "RelativeToolTip": "CalculatorSan\\SimpleCalculator.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T08:08:49.868Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CalculatorInterface.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\CalculatorApp_02\\CalculatorSan\\CalculatorInterface.cs",
-              "RelativeDocumentMoniker": "CalculatorSan\\CalculatorInterface.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\CalculatorApp_02\\CalculatorSan\\CalculatorInterface.cs",
-              "RelativeToolTip": "CalculatorSan\\CalculatorInterface.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T08:08:47.962Z"
+              "WhenOpened": "2025-02-17T08:08:49.868Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -138,46 +184,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-02-17T08:10:49.855Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\CalculatorApp_02\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\CalculatorApp_02\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T14:32:56.618Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MemoryItem.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\CalculatorApp_02\\Memory\\MemoryItem.cs",
-              "RelativeDocumentMoniker": "Memory\\MemoryItem.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\CalculatorApp_02\\Memory\\MemoryItem.cs",
-              "RelativeToolTip": "Memory\\MemoryItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T14:54:10.297Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MemoryTT.cs",
-              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\CalculatorApp_02\\Memory\\MemoryTT.cs",
-              "RelativeDocumentMoniker": "Memory\\MemoryTT.cs",
-              "ToolTip": "C:\\Users\\dell\\source\\repos\\CalculatorApp_02\\Memory\\MemoryTT.cs",
-              "RelativeToolTip": "Memory\\MemoryTT.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T14:54:04.932Z"
             },
             {
               "$type": "Document",

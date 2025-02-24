@@ -52,7 +52,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -88,8 +88,7 @@
               "RelativeToolTip": "..\\TestCalculator\\Test1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T08:32:29.072Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T08:32:29.072Z"
             },
             {
               "$type": "Document",
@@ -101,8 +100,7 @@
               "RelativeToolTip": "CalculatorSan\\CalculatorInterface.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T08:08:47.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T08:08:47.962Z"
             },
             {
               "$type": "Document",
@@ -114,8 +112,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwAQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T14:32:56.618Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-15T14:32:56.618Z"
             },
             {
               "$type": "Document",
@@ -127,12 +124,7 @@
               "RelativeToolTip": "Memory\\MemoryItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T14:54:10.297Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+              "WhenOpened": "2025-02-15T14:54:10.297Z"
             },
             {
               "$type": "Document",
@@ -144,8 +136,7 @@
               "RelativeToolTip": "Memory\\MemoryTT.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwAgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T14:54:04.932Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-15T14:54:04.932Z"
             },
             {
               "$type": "Document",
@@ -157,8 +148,7 @@
               "RelativeToolTip": "CalculatorSan\\CalculatorBase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T08:08:46.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T08:08:46.268Z"
             },
             {
               "$type": "Document",
@@ -220,6 +210,10 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-17T07:52:26.932Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }
